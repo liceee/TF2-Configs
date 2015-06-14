@@ -12,7 +12,9 @@ A repository of my tf2 configs
 
 ## Finding your config folder
 #### Windows
-`<Steam Folder>/SteamApps/common/team fortress 2/tf/cfg`
+`%PROGRAMFILES%/SteamApps/common/team fortress 2/tf/cfg`
+#### Windows x64
+`%PROGRAMFILES(x86)%/Steam/steamapps/common/Team Fortress 2/tf/custom/<mod>/cfg/`
 #### Mac
 `~/Library/Application Support/Steam/SteamApps/common/team fortress 2/tf/cfg`
 #### Linux
