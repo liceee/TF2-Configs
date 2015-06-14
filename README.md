@@ -14,10 +14,10 @@ A repository of my tf2 configs
 #### Windows
 `%PROGRAMFILES%/SteamApps/common/team fortress 2/tf/cfg`
 #### Windows x64
-`%PROGRAMFILES(x86)%/Steam/steamapps/common/Team Fortress 2/tf/custom/<mod>/cfg/`
+`%PROGRAMFILES(x86)%/Steam/steamapps/common/Team Fortress 2/tf/custom/yourfoldername/cfg/`
 #### Mac
 `~/Library/Application Support/Steam/SteamApps/common/team fortress 2/tf/cfg`
 #### Linux
 `~/.steam/steam/SteamApps/common/Team\ Fortress\ 2/tf/cfg`
 #### SteamPipe
-`/team fortress 2/tf/custom/yourfoldernamehere/cfg`
+`/team fortress 2/tf/custom/yourfoldername/cfg`
