@@ -1,7 +1,6 @@
 # TF2-Configs
-A repository of my tf2 configs
 
-## For information about specific bits, go to the [wiki](https://github.com/Samcfuchs/TF2-Configs/wiki).
+###### For information about specific bits, go to the [wiki](https://github.com/Samcfuchs/TF2-Configs/wiki).
 
 ## Installation
 1. [Download the zip folder](https://github.com/Samcfuchs/TF2-Configs/archive/master.zip)
