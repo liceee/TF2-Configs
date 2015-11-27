@@ -9,7 +9,14 @@
 4. ????
 5. profit
 
+I recommend using a hud as well as my scripts. I go between ToonHUD and RaysHUD,
+but I'm particular to Rays. I also like using transparent viewmodels, which is
+currently integrated into ToonHUD but not Rays, unfortunately. Soon to come is
+a crosshair switcher, I think. I'll look into it. I don't want to commit to any
+one hud, so I'll try to keep it nonpartisan.
+
 ## Finding your config folder
+All of these are ripped from other sources, sorry if they don't work.
 #### Windows
 `%PROGRAMFILES%/SteamApps/common/team fortress 2/tf/cfg`
 #### Windows x64
@@ -17,6 +24,6 @@
 #### Mac
 `~/Library/Application Support/Steam/SteamApps/common/team fortress 2/tf/cfg`
 #### Linux
-`~/.steam/steam/SteamApps/common/Team\ Fortress\ 2/tf/cfg`
+`~/.steam/steam/SteamApps/common/Team Fortress 2/tf/cfg`
 #### SteamPipe
 `/team fortress 2/tf/custom/yourfoldername/cfg`
