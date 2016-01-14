@@ -8,6 +8,10 @@
 3. Move *all* of the .cfg files to your config folder (see below)
 *Note where exactly the files should go- The .cfg files must be directly within the cfg folder.*
 
+## Rhapsody
+This config uses rhapsody's performance config. Install that with the instructions [here](http://rhapsodysl.github.io/perfconfig/)
+for these features.
+
 ## Finding your config folder
 All of these are ripped from other sources, sorry if they don't work.
 #### Windows
